@@ -7,15 +7,15 @@ assignees: BullBahis
 
 ---
 
+**Meydana gelen sorunu açıklayınız**
+
+
+
 işlem türü (Casino / Slot / Spor) hangisi? 
 
 
 İşlem ID: (Yatırım : ID ) veya (oyun : işlemID) gibi
 
-
-
-**Meydana gelen sorunu açıklayınız**
-A clear and concise description of what the bug is.
 
 **Ne yapıldı da meydana geldi?**
 Buraya yazınız.
@@ -29,6 +29,7 @@ Ekran görüntüsü iletebilir misiniz?
 Bilgisayar mı ? 
 
 Telefon mu? 
+android / apple ? 
 
 Hangi Tarayıcıdan denendi (Sitemiz en iyi Chrome desteklemekte)
 
