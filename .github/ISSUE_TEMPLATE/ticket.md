@@ -13,10 +13,8 @@ Kullanıcı Adı:
 Site: 
 
 
-Hangi Alan (Spor, Slot, Casino): 
 
-
-Yaşanılan problemi özetleyebilir misiniz? 
+Yaşanılan problemi özetleyebilir misiniz? (sorun yaşanılan işlemlerin ID'si de gerekmektedir.)
 
 
 
@@ -28,8 +26,7 @@ Ekran görüntüsü iletebilir miyiz?
 
 
 
-Bilgisayar / Android / IOS (hangisinde yaşandıysa kalanları silin)
-
+Cihaz Bilgisi:
 
 
 
